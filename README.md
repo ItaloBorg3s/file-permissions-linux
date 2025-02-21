@@ -47,9 +47,6 @@ I checked and changed the permissions of the `project_k.txt` file to remove the 
 - **Command used:** `chmod o-w project_k.txt`
 - **Explanation:** This command removes the write permission for "Other," ensuring that only the owner and group can modify the file.
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/7e5b5439-c85d-45a2-a25f-a9afc6d33f0a" width="500" style="margin-right: 500px;"/>
-</p>
 ![print 3](https://github.com/user-attachments/assets/7e5b5439-c85d-45a2-a25f-a9afc6d33f0a)
 
 ---
