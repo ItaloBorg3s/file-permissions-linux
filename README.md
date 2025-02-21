@@ -81,5 +81,3 @@ The `drafts` directory should only be accessible by the owner, so I removed the 
 In this project, I examined the permissions of various files and directories within the `projects` directory, adjusting them as necessary to improve system security. Actions included removing inappropriate write and read permissions and restricting access to critical directories to the owner only.
 
 ---
-
-Esse formato está pronto para ser usado diretamente no README do GitHub, com as seções e explicações organizadas de maneira clara. Caso queira ajustar algo ou adicionar mais detalhes, é só avisar!
