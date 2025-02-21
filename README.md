@@ -15,7 +15,7 @@ First, I navigated to the `projects` directory using the `cd` command and listed
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/d5561cf8-664c-4337-b17f-968f1a2e86c2" width="500" style="margin-right: 500px;"/>
-  <img src="https://github.com/user-attachments/assets/deab06a9-7abb-42b4-8d72-8c4de215e2bf" width="300" style="margin-left: 20px;"/>
+  <img src="https://github.com/user-attachments/assets/deab06a9-7abb-42b4-8d72-8c4de215e2bf" width="500" style="margin-left: 20px;"/>
 </p>
 
 
