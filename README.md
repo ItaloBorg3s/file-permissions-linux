@@ -47,6 +47,8 @@ I checked and changed the permissions of the `project_k.txt` file to remove the 
 - **Command used:** `chmod o-w project_k.txt`
 - **Explanation:** This command removes the write permission for "Other," ensuring that only the owner and group can modify the file.
 
+![print 3](https://github.com/user-attachments/assets/7e5b5439-c85d-45a2-a25f-a9afc6d33f0a)
+
 ---
 
 ## Change File Permissions on a Hidden File
@@ -59,6 +61,8 @@ The hidden file `.project_x.txt` should not allow write access for any user. To 
 An alternative simplified command to achieve the same result would be:
 - **Alternative command:** `chmod u=r,g=r .project_x.txt`
 
+![print 4](https://github.com/user-attachments/assets/1ce551c2-67a8-4c73-a8bd-ca99f0176994)
+
 ---
 
 ## Change Directory Permissions
@@ -67,6 +71,8 @@ The `drafts` directory should only be accessible by the owner, so I removed the 
 
 - **Command used:** `chmod g-x drafts`
 - **Explanation:** This command removes the execute permission for the group on the `drafts` directory, preventing group users from accessing its content.
+
+![print 6](https://github.com/user-attachments/assets/6352fbc3-b776-4ad0-a90d-85cf06a514da)
 
 ---
 
