@@ -13,9 +13,9 @@ First, I navigated to the `projects` directory using the `cd` command and listed
 - **Command used:** `ls -la`
 - **Explanation:** `ls` lists the files in the directory and `-la` provides detailed information, including hidden files.
 
-<p align="center"  style="display:flex; justify-content:space-between;" >
-  <img src="https://github.com/user-attachments/assets/0756255a-6040-4a74-b1fc-429991f4d4c2" width="300" style="margin-right: 20px;" />
-  <img src="https://github.com/user-attachments/assets/29c67b04-7c93-4959-97d5-dcf66afc663d" width="300" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/0756255a-6040-4a74-b1fc-429991f4d4c2" width="300" style="margin-right: 20px;"/>
+  <img src="https://github.com/user-attachments/assets/29c67b04-7c93-4959-97d5-dcf66afc663d" width="300" style="margin-left: 20px;"/>
 </p>
 
 ---
