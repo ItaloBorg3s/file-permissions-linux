@@ -18,11 +18,6 @@ First, I navigated to the `projects` directory using the `cd` command and listed
   <img src="https://github.com/user-attachments/assets/a3f4af1a-8f04-4054-9466-3cc65dee0207" width="500" style="margin-left: 20px;"/>
 </p>
 
-![print 1](https://github.com/user-attachments/assets/c6d9cb6f-6f6b-4bda-9880-734136bafe59)
-![print 2](https://github.com/user-attachments/assets/a3f4af1a-8f04-4054-9466-3cc65dee0207)
-
-
-
 ---
 
 ## Describe the Permissions String
