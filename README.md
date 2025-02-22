@@ -1,12 +1,12 @@
-#📂 File Permissions in Linux
+# 📌 File Permissions in Linux
 
-## Project Description
+## 📟 Project Description
 
 In this project, I explored and modified file and directory permissions in a Linux system to ensure better security. The goal was to check and adjust the permissions of the files and directories within the `/home/researcher2/projects` directory, following security best practices.
 
 ---
 
-##🔒 Check File and Directory Details
+## 🔍 Check File and Directory Details
 
 First, I navigated to the `projects` directory using the `cd` command and listed the content using `ls -la` to check the permissions and details of the files and directories. This command shows information about permissions, owner, group, and other file details.
 
@@ -20,7 +20,7 @@ First, I navigated to the `projects` directory using the `cd` command and listed
 
 ---
 
-##💾 Describe the Permissions String
+## 💾 Describe the Permissions String
 
 The permissions string in Linux consists of 10 characters that represent the permissions for files and directories:
 
@@ -40,7 +40,7 @@ In this case:
 
 ---
 
-## Change File Permissions
+## 🔒 Change File Permissions
 
 I checked and changed the permissions of the `project_k.txt` file to remove the write permission for "Other" using the command:
 
@@ -51,7 +51,7 @@ I checked and changed the permissions of the `project_k.txt` file to remove the 
 
 ---
 
-##💾 Change File Permissions on a Hidden File
+## 🔓 Change File Permissions on a Hidden File
 
 The hidden file `.project_x.txt` should not allow write access for any user. To achieve this, I removed the write permissions for both the user and the group:
 
@@ -65,7 +65,7 @@ An alternative simplified command to achieve the same result would be:
 
 ---
 
-##🛡️ Change Directory Permissions
+## 🛡️ Change Directory Permissions
 
 The `drafts` directory should only be accessible by the owner, so I removed the group permissions to access the directory.
 
@@ -76,7 +76,7 @@ The `drafts` directory should only be accessible by the owner, so I removed the 
 
 ---
 
-##📊 Summary
+## 📊 Summary
 
 In this project, I examined the permissions of various files and directories within the `projects` directory, adjusting them as necessary to improve system security. Actions included removing inappropriate write and read permissions and restricting access to critical directories to the owner only.
 
