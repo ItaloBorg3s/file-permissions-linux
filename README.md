@@ -13,10 +13,7 @@ First, I navigated to the `projects` directory using the `cd` command and listed
 - **Command used:** `ls -la`
 - **Explanation:** `ls` lists the files in the directory and `-la` provides detailed information, including hidden files.
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/c6d9cb6f-6f6b-4bda-9880-734136bafe59" width="500" style="margin-right: 500px;"/>
-  <img src="https://github.com/user-attachments/assets/a3f4af1a-8f04-4054-9466-3cc65dee0207" width="500" style="margin-left: 20px;"/>
-</p>
+![ls_permissions-](https://github.com/user-attachments/assets/0b810f6c-967f-4a2c-93ed-1f595cd74c89)
 
 ---
 
@@ -47,7 +44,7 @@ I checked and changed the permissions of the `project_k.txt` file to remove the 
 - **Command used:** `chmod o-w project_k.txt`
 - **Explanation:** This command removes the write permission for "Other," ensuring that only the owner and group can modify the file.
 
-![print 3](https://github.com/user-attachments/assets/7e5b5439-c85d-45a2-a25f-a9afc6d33f0a)
+![chmod_example_](https://github.com/user-attachments/assets/554db75d-8976-4f76-9e0e-53d544b10d0c)
 
 ---
 
@@ -61,7 +58,7 @@ The hidden file `.project_x.txt` should not allow write access for any user. To 
 An alternative simplified command to achieve the same result would be:
 - **Alternative command:** `chmod u=r,g=r .project_x.txt`
 
-![print 4](https://github.com/user-attachments/assets/1ce551c2-67a8-4c73-a8bd-ca99f0176994)
+![hidden_file_permissions_](https://github.com/user-attachments/assets/c34efcbf-cd2c-4b0e-aac4-eb98c06baf81)
 
 ---
 
@@ -72,7 +69,7 @@ The `drafts` directory should only be accessible by the owner, so I removed the 
 - **Command used:** `chmod g-x drafts`
 - **Explanation:** This command removes the execute permission for the group on the `drafts` directory, preventing group users from accessing its content.
 
-![print 6](https://github.com/user-attachments/assets/6352fbc3-b776-4ad0-a90d-85cf06a514da)
+![directory_permissions_](https://github.com/user-attachments/assets/b146afd5-6c90-4a0c-ae46-d29976f97633)
 
 ---
 
